@@ -1,0 +1,11 @@
+fastapi
+motor
+python-decouple
+uvicorn
+beautifulsoup4
+requests
+schedule
+stopwords
+nltk
+rake-nltk
+python-dotenv
